@@ -21,7 +21,13 @@
 - **Font Awesome 5.10** – built-in icons  
 
 ---
+## 📂 Project Structure
 
+Simone/
+┣ images/
+┣ index.html
+┣ style.css
+┗ README.md
 ---
 
 ## 📥 How to Use
